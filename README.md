@@ -1,6 +1,6 @@
 #### This is lab dns for testing openshift 
 <!-- -->
-package use dnsmasq. 
+Package used dnsmasq. 
 <!-- -->
 It is light weight dns provider and dns forwarder to ftp and dhcp server.
 <!-- -->
